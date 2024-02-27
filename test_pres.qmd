@@ -1,0 +1,17 @@
+---
+title: "test presentation"
+format:
+  revealjs: 
+    theme: my_colours.scss
+    logo: my_footer_logo.png
+    css: logo.css
+---
+
+
+## Example slides
+
+Just a brief demo.
+
+## Second slide
+
+Another slide
